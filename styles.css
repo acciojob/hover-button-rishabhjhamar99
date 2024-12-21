@@ -5,7 +5,7 @@
 	color:white;
 	border-radius:5px;
 	border:none;
-	button-type:submit;
+	
 	content:read-write-plaintext-only;
 }
 #btn:hover{
